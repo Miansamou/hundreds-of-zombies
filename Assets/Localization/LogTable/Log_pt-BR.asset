@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Log_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: c94de5e3e05c2f143b88be420a0e63e8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9935675392
+    m_Localized: "A\xE7\xE3o inv\xE1lida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2582583336960
+    m_Localized: "Voc\xEA atirou..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2821440561152
+    m_Localized: "Erro cr\xEDtico ;-;"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928227540992
+    m_Localized: "Acerto cr\xEDtico! ^^"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3176727470080
+    m_Localized: "Voc\xEA acertou o inimigo :D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3329609850880
+    m_Localized: "N\xE3o foi dessa vez :/"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3811082395648
+    m_Localized: ---------SEU TURNO---------
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4567525122048
+    m_Localized: ---------TURNO DO ZUMBI---------
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5549613015040
+    m_Localized: "Seu recorde \xE9 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6005215092736
+    m_Localized: "Voc\xEA Perdeu :("
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6025779765248
+    m_Localized: "VOC\xCA VENCEU!! :)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7814725918720
+    m_Localized: 'Seu tempo foi '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8463400198144
+    m_Localized: 'Dado: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844167503872
+    m_Localized: 'Dado:  1, Zumbis movem para cima!!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8862433697792
+    m_Localized: 'Dado:  2, Zumbis movem para direita!!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8879743590400
+    m_Localized: 'Dado:  3, Zumbis movem para baixo!!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8934940631040
+    m_Localized: 'Dado:  4, Zumbis movem para esquerda!!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8957237551104
+    m_Localized: ", Os Zumbis est\xE3o atr\xE1s de voc\xEA!!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 15335eef3c64f9c4db632e6e659595bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 180367024128
+    m_Localized: "Brasil, Mar\xE7o de 2120\n\nA sociedade virou um caos total ap\xF3s
+      a apari\xE7\xE3o de um novo v\xEDrus mortal, o Skolv\xEDrus. A primeira vista,
+      o v\xEDrus representava s\xF3 mais uma \u201Cgripezinha\u201D, por\xE9m, a
+      popula\xE7\xE3o n\xE3o respeitou as medidas de seguran\xE7a estipuladas pelo
+      governo e a doen\xE7a se espalhou cada vez mais.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3033903030272
+    m_Localized: "13 de Maio\n\nO pat\xF3geno (agente causador da doen\xE7a) come\xE7ou
+      a se modificar, e os sintomas ficaram mais graves, as pessoas que estavam apenas
+      com dificuldade na respira\xE7\xE3o, sofreram altera\xE7\xF5es gen\xE9ticas
+      e tiveram surtos de agressividade. A sa\xFAde p\xFAblica j\xE1 n\xE3o consegue
+      tratar do v\xEDrus e a imprensa brasileira coloca a culpa em um jogo chamado
+      \u201CPlague Inc.\u201D, insinuando que ele teria ensinado ao v\xEDrus como
+      \xE9 poss\xEDvel fazer muta\xE7\xF5es."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3181349593088
+    m_Localized: "30 de Novembro\n\nOs infectados j\xE1 somam mais de 80% da popula\xE7\xE3o.
+      Em decorr\xEAncia da modifica\xE7\xE3o gen\xE9tica, eles ficaram sedentos por
+      sangue humano. O significado que conhec\xEDamos pelo termo sociedade, j\xE1
+      n\xE3o existe mais, os zumbis dominam as ruas, seu sangue e sua saliva s\xE3o
+      os principais meios de cont\xE1gio.  Os zumbis s\xE3o extremamente resistentes
+      e s\xF3 s\xE3o capazes de morrer com um tiro certeiro na cabe\xE7a, a sorte
+      \xE9 que constatamos que eles s\xE3o burros, e assim n\xE3o atacam diretamente
+      as pessoas, mas sim, ficam fazendo movimentos aleat\xF3rios, por\xE9m ao entrar
+      em contato com algu\xE9m, a morte \xE9 certa... ou a meia morte..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3291882086400
+    m_Localized: "E a situa\xE7\xE3o global?\n\nTodos os continentes est\xE3o infectados.
+      Apenas algumas pessoas andam nas ruas ou ainda est\xE3o vivas (a taxa de suic\xEDdio
+      aumentou consideravelmente). Poucas pessoas tentam combater os infectados,
+      e elas receberam o codinome de Kamikazes (Um termo mais legal, mas geralmente
+      s\xF3 os chamam de suicidas mesmo). Diversas pot\xEAncias tentam buscar a cura,
+      mas at\xE9 agora nada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3367077568512
+    m_Localized: "Quem \xE9 voc\xEA?\n\nVoc\xEA \xE9 Douglas, um ex-estudante, contador
+      desempregado e asm\xE1tico, nunca teve treinamento militar ou sabia utilizar
+      armas, por\xE9m sua paix\xE3o por jogos de tiro deu uma luz para como sobreviver
+      a esse apocalipse, al\xE9m das dicas de uma s\xE9ria que assistira quando mais
+      novo, The MoonWalker Dead. Sua vontade de salvar o mundo, o fez se tornar um
+      Kamikaze, e ele resolveu, com uma pistola que suporta apenas 5 disparos por
+      vez, atrair um grupo de zumbis para um pequeno terreno, a fim de matar todos...
+      talvez n\xE3o tenha sido o melhor dos planos... (Entende-se o motivo de serem
+      chamados de suicidas) vejamos como voc\xEA se sai! t(^^t)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3822864195584
+    m_Localized: "Pr\xF3ximo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3906611863552
+    m_Localized: Jogar
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

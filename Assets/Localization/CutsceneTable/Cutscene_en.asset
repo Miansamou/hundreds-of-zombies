@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 15335eef3c64f9c4db632e6e659595bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 180367024128
+    m_Localized: "Brazil, March 2120\n\nSociety turned into total chaos after the
+      appearance of a new deadly virus, Skolvirus. At first glance, the virus represented
+      just one more \u201Clittle flu\u201D, however, the population did not respect
+      the security measures stipulated by the government and the disease spread more
+      and more."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3033903030272
+    m_Localized: "May 13th\n\nThe pathogen (the causative agent of the disease) began
+      to change, and the symptoms became more severe, people who were just having
+      difficulty breathing, suffered genetic changes and had outbreaks of aggression.
+      Public health can no longer deal with the virus and the Brazilian press places
+      the blame on a game called \u201CPlague Inc.\u201D, implying that it would
+      have taught the virus how mutations are possible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3181349593088
+    m_Localized: 'November 30th
+
+
+      Those infected already account for more than
+      80% of the population. As a result of the genetic modification, they were thirsty
+      for human blood. The meaning we knew by the term society, no longer exists,
+      zombies dominate the streets, their blood and saliva are the main means of
+      contagion.  Zombies are extremely resistant and are only able to die with a
+      direct shot to the head, the luck is that we found that they are stupid, and
+      so they do not directly attack people, but rather, they are making random movements,
+      however when contacting someone, death is certain ... or half death ...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3291882086400
+    m_Localized: 'And the global situation?
+
+
+      All continents are infected.
+      Only a few people walk the streets or are still alive (the suicide rate has
+      increased considerably). Few people try to fight the infected, and they are
+      codenamed Kamikazes (A cooler term, but usually they just call them suicidal).
+      Several powers try to seek a cure, but so far nothing.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3367077568512
+    m_Localized: 'Who are you?
+
+
+      You are Douglas, a former student, unemployed
+      accountant and asthmatic, never had military training or knew how to use weapons,
+      but your passion for shooting games shed light on how to survive this apocalypse,
+      in addition to the tips of a serious who watched when more new, The MoonWalker
+      Dead. His desire to save the world, made him become a Kamikaze, and he decided,
+      with a pistol that supports only 5 shots at a time, to attract a group of zombies
+      to a small terrain in order to kill everyone ... maybe he didn''t have been
+      the best of plans ... (understand why they are called suicidal) let''s see
+      how you do! t (^^ t)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3822864195584
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3906611863552
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

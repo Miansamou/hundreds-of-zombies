@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Log_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c94de5e3e05c2f143b88be420a0e63e8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9935675392
+    m_Localized: Invalid action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2582583336960
+    m_Localized: You shoot...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2821440561152
+    m_Localized: Critical error  ;-;
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928227540992
+    m_Localized: Critical strike! ^^
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3176727470080
+    m_Localized: You hit the enemy :D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3329609850880
+    m_Localized: Not this time :/
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3811082395648
+    m_Localized: ---------YOUR TURN---------
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4567525122048
+    m_Localized: ---------ZOMBIE TURN---------
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5549613015040
+    m_Localized: 'Your record is '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6025779765248
+    m_Localized: YOU WIN!! :)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6005215092736
+    m_Localized: You lose :(
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7814725918720
+    m_Localized: 'Your time was '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8463400198144
+    m_Localized: 'Dice: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844167503872
+    m_Localized: 'Dice: 1, Zombies move up!!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8862433697792
+    m_Localized: "\rDice: 2, Zombies move right!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8879743590400
+    m_Localized: "\rDice: 3, Zombies move down!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8934940631040
+    m_Localized: "\rDice: 4, Zombies move left!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8957237551104
+    m_Localized: ', The Zombies are after you!!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

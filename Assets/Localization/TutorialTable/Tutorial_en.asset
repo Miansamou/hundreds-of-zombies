@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 26054d1a103cb0e4eb8d032ceabbb80a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 228656046080
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166760701952
+    m_Localized: 'Zombie Turn: Each turn, a six-sided die is rolled, which determines
+      the direction in which the zombies will move, and it is also impossible for
+      zombies to occupy the same space.
+
+
+      1 - Up / 2 - Right / 3 - Down / 4
+      - Left
+
+
+      If a 5 or 6 is rolled, the first zombies that are on the same
+      vertical or horizontal plane as the player move in their direction.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122808590336
+    m_Localized: 'Available actions
+
+      
+
+      Rotate: Turn the character to
+      any side. No cost.
+
+      
+
+      Move: Moves in the direction your character
+      is facing, as long as it is not a wall or a Zombie. Cost of 1 stamina.
+
+      
+
+      Shoot:
+      Fires a shot in the direction you are facing; the higher the stamina, the greater
+      the accuracy. Cost of 2 stamina.
+
+      
+
+      Reload: Reloads the weapon
+      to return to having maximum bullets. Cost of 3 stamina.
+
+      
+
+      End
+      turn: You receive 2 stamina when you end your turn, starting the zombie''s
+      turn.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88763424768
+    m_Localized: 'Turns: You face the Zombies in turns, in which you have certain
+      actions that you can do if you have enough stamina, and after that you must
+      end your turn, the zombies'' action will begin.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13811212288
+    m_Localized: 'Objective: You are alone in this, and you need to kill all the
+      Zombies on the ground and stay alive!!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

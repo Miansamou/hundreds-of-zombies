@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Main Menu_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 2627dd46b45d5444f8eaee95bd37c5cf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 93821755392
+    m_Localized: Clique na tela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231466229760
+    m_Localized: "Come\xE7ar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324659470336
+    m_Localized: "Op\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 393932595200
+    m_Localized: Criado por Miansamou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336810214842368
+    m_Localized: "Configura\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336866447876096
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 337015555383296
+    m_Localized: Voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356782676795392
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

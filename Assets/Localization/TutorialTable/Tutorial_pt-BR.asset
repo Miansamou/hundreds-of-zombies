@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 26054d1a103cb0e4eb8d032ceabbb80a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13811212288
+    m_Localized: "Objetivo: Voc\xEA est\xE1 sozinho nessa, e precisa matar todos
+      os Zumbis do terreno e se manter vivo!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88763424768
+    m_Localized: "Turnos: Voc\xEA enfrenta os Zumbis em turnos,em que voc\xEA tem
+      certas a\xE7\xF5es que voc\xEA pode fazer se tiver stamina suficiente, e ap\xF3s
+      isso deve encerrar o seu turno, ir\xE1 iniciar a a\xE7\xE3o dos zumbis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122808590336
+    m_Localized: "A\xE7\xF5es dispon\xEDveis\n\nRotacionar: Virar o personagem para
+      algum lado. Sem custo.\n\nMover: Se move em dire\xE7\xE3o para onde seu personagem
+      estiver virado, desde que n\xE3o seja uma parede ou um Zumbi. Custo de 1 stamina.\n\nDisparar:
+      Dispara um tiro para a dire\xE7\xE3o que estiver virado, quanto maior a stamina,
+      maior a preci\xE7\xE3o. Custo de 2 staminas.\n\nRecarregar: Recarrega a arma
+      para voltar a ter o m\xE1ximo de balas. Custo de 3 staminas.\n\nEncerrar o
+      turno: Voc\xEA recebe 2 de stamina ao encerrar o turno, iniciando o turno do
+      zumbi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166760701952
+    m_Localized: "Turno dos Zumbis: A cada turno, um dado de seis lados \xE9 lan\xE7ado,
+      o que determina a dire\xE7\xE3o para que os zumbis se movimentem, sendo tamb\xE9m
+      imposs\xEDvel que os zumbis ocupem a mesma casa.\n\n1 - Cima / 2 - Direita
+      / 3 - Baixo / 4 - Esquerda\n\nCaso caia 5 ou 6, os primeiros zumbis que estiverem
+      no mesmo plano vertical ou horizontal do jogador, se movem para a sua dire\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228656046080
+    m_Localized: "Pr\xF3ximo"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

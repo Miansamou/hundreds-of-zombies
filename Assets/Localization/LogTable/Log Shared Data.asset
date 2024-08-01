@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Log Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Log
+  m_TableCollectionNameGuidString: c94de5e3e05c2f143b88be420a0e63e8
+  m_Entries:
+  - m_Id: 9935675392
+    m_Key: InvalidAction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2582583336960
+    m_Key: Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2821440561152
+    m_Key: CriticalError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928227540992
+    m_Key: CriticalStrike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3176727470080
+    m_Key: HitEnemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3329609850880
+    m_Key: Miss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3811082395648
+    m_Key: YourTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4567525122048
+    m_Key: ZombieTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5549613015040
+    m_Key: Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6005215092736
+    m_Key: Lose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6025779765248
+    m_Key: Win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7814725918720
+    m_Key: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8463400198144
+    m_Key: Dice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844167503872
+    m_Key: Dice1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8862433697792
+    m_Key: Dice2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8879743590400
+    m_Key: Dice3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8934940631040
+    m_Key: Dice4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8957237551104
+    m_Key: Dice56
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5052667848020721677
+  references:
+    version: 2
+    RefIds:
+    - rid: 5052667848020721677
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1722434960827

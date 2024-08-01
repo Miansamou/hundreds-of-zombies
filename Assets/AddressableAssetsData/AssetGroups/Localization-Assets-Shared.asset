@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8d35d21c98d68ba4fbc0a63b8da44fed
+  m_SerializeEntries:
+  - m_GUID: 2627dd46b45d5444f8eaee95bd37c5cf
+    m_Address: Assets/Localization/Tables/Main Menu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 261143df391800e4bbdc4e871e573403
+    m_Address: Assets/Localization/MainMenuAssetTable/MainMenuAsset Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 15335eef3c64f9c4db632e6e659595bf
+    m_Address: Assets/Localization/Cutscene/Cutscene Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 6d1fe847f4643c440aaf0758d5a3e9db
+    m_Address: Assets/Localization/GameTable/Game Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: c94de5e3e05c2f143b88be420a0e63e8
+    m_Address: Assets/Localization/LogTable/Log Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 26054d1a103cb0e4eb8d032ceabbb80a
+    m_Address: Assets/Localization/TutorialTable/Tutorial Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 3f6d1bc85bbfd67489c46330941836d2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84914ad0f4a050a4da0ad58540ce9a08, type: 2}
+    - {fileID: 11400000, guid: a628e5aabbe4a8e4c8d05cd610668732, type: 2}
